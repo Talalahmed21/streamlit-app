@@ -1,0 +1,7 @@
+pandas
+numpy
+streamlit
+seaborn
+scikit-learn
+ydata_profiling
+streamlit_pandas_profiling
